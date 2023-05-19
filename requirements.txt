@@ -1,0 +1,8 @@
+geopandas
+cfgrib
+geopandas
+pandas
+pyarrow
+pycountry
+rasterio
+shapely
